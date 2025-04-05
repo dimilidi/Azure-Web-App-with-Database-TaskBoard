@@ -1,5 +1,5 @@
 resource_group_name     = "TaskBoardLidi"
-resource_group_location = "North Europe"
+resource_group_location = "Brazil South"
 app_service_plan_name   = "taskboardlidi"
 app_service_name        = "taskboardlidi"
 sql_server_name         = "taskboardsqlserverlidi"
