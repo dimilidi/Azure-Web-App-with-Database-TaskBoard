@@ -94,5 +94,3 @@ resource "azurerm_app_service_source_control" "github" {
 
 
 
-
-
